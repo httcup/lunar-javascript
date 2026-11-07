@@ -4,6 +4,16 @@ lunar是一款无第三方依赖的公历(阳历)、农历(阴历、老黄历)�
 
 [English](https://github.com/6tail/lunar-javascript/blob/master/README_EN.md)
 
+## 在线演示
+
+- GitHub Pages：<https://httcup.github.io/lunar-javascript/>
+- Cloudflare Pages：<https://lunar-javascript.pages.dev/>
+
+演示页面源码为 [index.html](./index.html)，纯前端实现，含今日黄历（宜忌、冲煞、值神、星宿、吉神方位、胎神）、公历农历互转、四柱八字、二十四节气表，直接引用根目录 `lunar.js`，无需构建。
+
+> 本仓库是 [6tail/lunar-javascript](https://github.com/6tail/lunar-javascript) 的副本，仅用于演示站部署与个人使用，核心算法与版权归原作者所有（MIT）。
+
+
 ## 示例
 
 ### 普通页面

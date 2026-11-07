@@ -13,6 +13,15 @@ lunar是一款无第三方依赖的公历(阳历)、农历(阴历、老黄历)�
 
 > 本仓库是 [6tail/lunar-javascript](https://github.com/6tail/lunar-javascript) 的副本，仅用于演示站部署与个人使用，核心算法与版权归原作者所有（MIT）。
 
+## 部署
+
+两处均跟随 `main` 分支自动构建，push 即上线，无需手动发布：
+
+| 平台 | 站点 | 配置 |
+| --- | --- | --- |
+| GitHub Pages | <https://httcup.github.io/lunar-javascript/> | 源：`main` 分支根目录 |
+| Cloudflare Pages | <https://lunar-javascript.pages.dev/> · <https://laorili.139t.cn/> | 连接本仓库，生产分支 `main`，构建命令留空，输出目录 `/` |
+
 
 ## 示例
 
